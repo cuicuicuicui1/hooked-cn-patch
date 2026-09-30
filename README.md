@@ -13,6 +13,10 @@
 |---|---|
 | [`Hooked_汉化补丁_v1.0.zip`](Hooked_汉化补丁_v1.0.zip) | 1.9 MB |
 
+也可以直接从 [Releases](https://github.com/cuicuicuicui1/hooked-cn-patch/releases/latest)
+下载（Release 附件名为 `Hooked_Chinese_Patch_v1.0.2.zip`，与上表是同一个文件，
+GitHub 的附件名不支持中文所以用了英文名）。
+
 SHA256：`334fa5ca59792411de7deafb5367e3a66c8417534e8eb8d1e3936b77a6e5f9d2`
 （校验文件见 [`SHA256SUMS.txt`](SHA256SUMS.txt)）
 
